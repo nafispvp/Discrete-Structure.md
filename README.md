@@ -1,4 +1,4 @@
-# Discrete-Structure.md
+# Discrete Structure
 # Introduction
 👨‍💼Lecturer : Dr Tarmizi bin Adam
 👨🏻‍🎓Section : 09
