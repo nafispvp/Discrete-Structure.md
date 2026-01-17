@@ -1,6 +1,6 @@
 # Discrete Structure
 # Introduction
-👨‍💼Lecturer : Dr Tarmizi bin Adam
+👨‍💼Lecturer : Dr Tarmizi bin Adam <br>
 👨🏻‍🎓Section : 09
 
 # 📝Summary
